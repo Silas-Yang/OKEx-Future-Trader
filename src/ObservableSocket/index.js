@@ -1,0 +1,1 @@
+exports.ObservableSocket = require('observable-socket')

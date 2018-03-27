@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "target": "esnext",
+        "outDir": "dist",
+        "allowJs": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
